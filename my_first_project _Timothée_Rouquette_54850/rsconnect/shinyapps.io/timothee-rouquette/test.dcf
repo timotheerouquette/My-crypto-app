@@ -1,0 +1,12 @@
+name: test
+title: test
+username:
+account: timothee-rouquette
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3238096
+bundleId: 3864187
+url: https://timothee-rouquette.shinyapps.io/test/
+when: 1605477258.29489
+asMultiple: FALSE
+asStatic: FALSE
